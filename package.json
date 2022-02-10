@@ -16,7 +16,7 @@
     "@progress/kendo-vue-intl": "^1.0.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "validate": "^5.1.0",
     "vue": "^2.6.11",
     "vuelidate": "^0.7.5"
